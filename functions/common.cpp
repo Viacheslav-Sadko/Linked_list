@@ -2,6 +2,7 @@
 #include <string>
 #include <iomanip> 
 using namespace std;
+
 struct student_marks{
     int math;
     int IT;
